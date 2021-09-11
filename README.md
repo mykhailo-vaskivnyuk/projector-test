@@ -1,4 +1,4 @@
-# projector-test
+# [projector-test](https://github.com/prjctr-node/prjctr-node-test-task/)
 ## Задание №1
 Реализовать функцию `groupBy` на чистом JS, которая будет группировать массив по определённой функции, переданной вторым аргументом:
 ```
